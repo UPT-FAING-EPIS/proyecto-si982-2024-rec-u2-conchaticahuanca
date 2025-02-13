@@ -5,7 +5,7 @@
 
 ![](img/Aspose.Words.64a506e7-bf2e-41ae-95af-f301b8fabc10.014.png)
 
-NOMBRE DEL TRABAJO: “Trabajo de Asignación N°01**”**  TEMA DEL TRABAJO*:* **“Avance FD03 - Diagramas”**  
+Proyecto “Sistema Web para mejorar el aprendizaje de los estudiantes del VI ciclo de educación secundaria en el curso de Educación para el Trabajo”
 
 **Integrantes:** 
 
@@ -13,6 +13,7 @@ NOMBRE DEL TRABAJO: “Trabajo de Asignación N°01**”**  TEMA DEL TRABAJO*:* 
 | - | - | - |
 |**1.-**  |**2017057849**  |**Concha Llaca, Gerardo Alejandro**  |
 |**2.-** |**2020068765** |**Fiorela Milady Ticahuanca Cutipa** |
+|**3.-** |**2017057851** |**Raul Marcelo Cuadros Napa** |
 
 **CURSO : “Programación Web II”** 
 
